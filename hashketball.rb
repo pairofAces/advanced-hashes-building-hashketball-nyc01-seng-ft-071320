@@ -77,7 +77,7 @@ def game_hash {
         slam_dunks:
       },
       {
-        player_name:
+        player_name: Bismack Biyombo,
         number:
         shoe:
         points:
