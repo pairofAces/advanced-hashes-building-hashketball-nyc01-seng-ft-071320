@@ -1,9 +1,10 @@
 # Write your code here!
-def game_hash {
-  home: {
-    team_name:"Brooklyn Nets",
-    colors: [Black, White], 
-    players:[
+def game_hash 
+  {
+    home: {
+      team_name:"Brooklyn Nets",
+      colors: [Black, White], 
+      players: [
       {
         player_name: Alan Anderson,
         number: 0,
@@ -64,7 +65,7 @@ def game_hash {
   away: {
     team_name:"Charlotte Hornets",
     colors: [Turquoise, Purple], 
-    players:[
+    players: [
       {
         player_name: Jeff Adrien,
         number: 4,
@@ -110,7 +111,7 @@ def game_hash {
         slam_dunks: 0
       },
       {
-        player_name: Kemba Walker,
+        player_name: "Kemba Walker",
         number: 33,
         shoe: 15,
         points: 6,
